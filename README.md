@@ -37,6 +37,6 @@ MrReacher's async-mcrcon (https://github.com/MrReacher/async-mcrcon)
 
 ★Use recommendations 使用建议  
 1.Please do not arbitrarily spread the software that has been filled in with the address, port and password to others, otherwise we will not be responsible for it.请不要随意将已填入地址、端口、密码的软件传播给他人，否则我们概不负责  
-2.If you want to do whitelist operation with CoolQ, you can do it through another program of ours.**(https://github.com/ElaBosak233/EusWhitelist-CoolQ)**  若想通过酷Q进行白名单操作，你可以通过我们的另一个程序进行操作  **(https://github.com/ElaBosak233/EusWhitelist-CoolQ)**
-3.Although we have a python environment, we recommend that users have their own global python environment. 虽然我们有python环境，但是我们建议使用者再自备一个全局的python环境
+2.If you want to do whitelist operation with CoolQ, you can do it through another program of ours.**(https://github.com/ElaBosak233/EusWhitelist-CoolQ)**  若想通过酷Q进行白名单操作，你可以通过我们的另一个程序进行操作  **(https://github.com/ElaBosak233/EusWhitelist-CoolQ)**  
+***3.Although we have a python environment, we recommend that users have their own global python environment. 虽然我们有python环境，但是我们建议使用者再自备一个全局的python环境***
 
