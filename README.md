@@ -1,6 +1,6 @@
 # EusWhitelist-Program  
 ## Minecraft Online Server's Whitelist Registration Tool By Python with MCRCON.   
-## 由Python，Mcrcon机器人完成的我的世界正版服务器白名单注册组件  
+## 由Python，Mcrcon完成的我的世界正版服务器白名单注册组件  
 ###**Powered by.leavessoft and ElaBosak233**
 
 This software is a revision of EusWhitelist-CoolQ. It can get rid of the dependence of coolQ and perform whitelisting operation on the software. Users who have the ability can change the software to web version, hope to share your results, please don't forget Notice @ElaBosak233 and @leavessoft  
