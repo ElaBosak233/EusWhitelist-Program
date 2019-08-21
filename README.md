@@ -1,6 +1,7 @@
 # EusWhitelist-Program  
 ## Minecraft Online Server's Whitelist Registration Tool By Python with MCRCON.   
 ## 由Python，Mcrcon机器人完成的我的世界正版服务器白名单注册组件  
+###**Powered by.leavessoft and ElaBosak233**
 
 This software is a revision of EusWhitelist-CoolQ. It can get rid of the dependence of coolQ and perform whitelisting operation on the software. Users who have the ability can change the software to web version, hope to share your results, please don't forget Notice @ElaBosak233 and @leavessoft  
 本软件是EusWhitelist-CoolQ的改版，可以摆脱CoolQ的依赖，在软件上执行添加白名单的操作，有能力的使用者可以将本软件改为网页版，希望能分享出你的成果，请不要忘了通知 @ElaBosak233 and @leavessoft  
@@ -22,7 +23,8 @@ async def updateWhitelist():
     async with MinecraftClient('address', 'port', 'passwd') as mc:
         output = await mc.send('whitelist add ' + name)
         print(output)
-asyncio.run(updateWhitelist())
+#asyncio.run(updateWhitelist())
+#Please use the above code as appropriate. 请按照情况使用上面的代码( asyncio.run(updateWhitelist())  )
 ```
 **Fill 'address' , port , 'passwd' in the code (verifiction.py) 填充'地址',端口,'密码'在代码中(verifiction.py)**  
 *Attention:address and passwd need quotation marks as strings, but port don't. 注意：地址和密码作为字符串需要加引号，但是端口不用*  
